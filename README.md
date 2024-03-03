@@ -46,3 +46,9 @@ details for customer response prediction on product purchase records.
 • Built and trained 6 different Machine learning models such as KNN, SVM, Decision Tree, Random Forest,
 AdaBoost and Stacking for customer response prediction using Scikit-Learn packages, models overall
 performance achieved over 90% accuracy.
+
+## Wine Quality Data Analysis Project using R Sep 2021 – Oct 2021
+Individual project
+(Subject scored 80/100)
+
+• Conducted data transformation and data analysis on Wine quality data using R programming language.
