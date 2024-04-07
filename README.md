@@ -5,6 +5,7 @@ Capstone group project
 (Subject scored 97/100)		
 
 •	Performed data extraction, data cleaning and data manipulation on the City of Melbourne (CoM) Smart Bins dataset.
+
 •	Created an AI solution to predict Smart Bin fill level around Argyle Square in CoM with over 80% accuracy and showcased the AI solution during Deakin InnoFes event to potential investors. 
 
 
