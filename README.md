@@ -1,5 +1,13 @@
 # AI/ML/Data Projects
 
+## Smart Bin Waste Collection AI Solution Jul 2023 – Nov 2023
+Capstone group project 	
+(Subject scored 97/100)		
+
+•	Performed data extraction, data cleaning and data manipulation on the City of Melbourne (CoM) Smart Bins dataset.
+•	Created an AI solution to predict Smart Bin fill level around Argyle Square in CoM with over 80% accuracy and showcased the AI solution during Deakin InnoFes event to potential investors. 
+
+
 ## Time Series Forecasting Project Aug 2022 – Oct 2022
 Group project
 (Subject scored 88/100)
